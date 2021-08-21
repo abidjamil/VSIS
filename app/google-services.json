@@ -1,29 +1,34 @@
 {
   "project_info": {
-    "project_number": "619641648787",
-    "firebase_url": "https://number-plate-scanner-f1441.firebaseio.com",
-    "project_id": "number-plate-scanner-f1441",
-    "storage_bucket": "number-plate-scanner-f1441.appspot.com"
+    "project_number": "578744959539",
+    "firebase_url": "https://vsis-18c44-default-rtdb.firebaseio.com",
+    "project_id": "vsis-18c44",
+    "storage_bucket": "vsis-18c44.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:619641648787:android:074610b6fa86b978",
+        "mobilesdk_app_id": "1:578744959539:android:9e1601cdd71c983f9e9946",
         "android_client_info": {
-          "package_name": "com.google.android.gms.samples.vision.ocrreader"
+          "package_name": "com.fyp.vsis"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "578744959539-6usu2i2vn67440djmpovv3tgdpurdk42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyCk2EFzjLiRgqNqWjYfmZ6DFumhFzF61uI"
+          "current_key": "AIzaSyD7Zts-HphR_rbPrbzHCT6SVfgyYUFWcao"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "619641648787-m09ki9crm7lccdhovriri1gkd76jss2j.apps.googleusercontent.com",
+              "client_id": "578744959539-6usu2i2vn67440djmpovv3tgdpurdk42.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
